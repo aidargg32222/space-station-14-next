@@ -678,7 +678,7 @@
     weight: 0.0002 # 5,000 times less likely than 1 regular animal
     # not putting a BlockMovement component here cause that's funny.
   - type: Multishot # Goobstation
-  - type: TwoHanded
+ 
 
 - type: entity
   name: advanced laser pistol
